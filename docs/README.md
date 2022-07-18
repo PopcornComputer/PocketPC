@@ -1,7 +1,7 @@
-# Pocket PC
+# PocketPC
 
 **Note:** This documentation is a work in progress.  
-For more information about Pocket PC, please see Pocket PC's Wiki Page: https://wiki.popcorncomputer.com/wiki/Pocket_P.C.
+For more information about PocketPC, please see PocketPC's Wiki Page: https://wiki.popcorncomputer.com/wiki/Pocket_P.C.
 
 ## Software
 
