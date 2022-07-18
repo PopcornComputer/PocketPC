@@ -6,11 +6,11 @@
 ## Purchase
 **PocketPC** is available for purchase in our webstore.  
 There are two versions of **PocketPC**, links for both versions are provided below:  
-1. PocketPC w/ LoRa+GNSS: [pocketpc-w-lora-webstore-link]
-2. PocketPC w/ Wi-Fi/BT Only: [pocketpc-webstore-link]
+1. PocketPC w/ LoRa+GNSS: [https://shop.popcorncomputer.com/products/pocket-pc-w-lora][pocketpc-w-lora-webstore-link]
+2. PocketPC w/ Wi-Fi/BT Only: [https://shop.popcorncomputer.com/products/pocketpc][pocketpc-webstore-link]
 
 ## Documentation
-To view the documentation stored in this repository please visit: [pocketpc-docs]  
+To view the documentation stored in this repository please visit: [https://docs.popcorncomputer.com/PocketPC/][pocketpc-docs]  
 
 If you have done something cool with **PocketPC** or feel that something is missing from the documentation, please feel free to open an issue on this repository or submit a Pull Request. The source files for our documentation website can be found in the /docs folder in this repository.
 
